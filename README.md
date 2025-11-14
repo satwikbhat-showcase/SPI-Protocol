@@ -45,6 +45,8 @@ Above are the FSM flowcharts for master and slave architecures respectively
 
 <img width="962" height="602" alt="image" src="https://github.com/user-attachments/assets/7496966c-1472-4d2a-a062-f8cd3066090a" />
 
+## EDA Playground implementation:
+- <a href="https://edaplayground.com/x/K_SU">SPI Protocol - Design & Verification </a>
 ## References:
 - <a href="https://www.udemy.com/share/106k2a3@Jpho-VOf8wTPMeQi-Apt53UxAA9B7tMgNLXkbx1mdukUFrunTmb_XEcQ5SiTqofGcQ==/"> [Course] Verification Series Part 2: Hands-On SystemVerilog Projects </a>
 - <a href="https://youtu.be/DOuB2zvE18U?si=L2TV6AcPT1fRATnd"> [YOUTUBE] SPI Protocol by Engineering Funda </a>
